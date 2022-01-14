@@ -1,0 +1,14 @@
+{
+    "name": "wapi/sdk",
+    "description": "挖数据sdk包",
+    "require-dev": {
+        "wapi/sdk": "1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Safs",
+            "email": "sa@safs.me"
+        }
+    ],
+    "require": {}
+}

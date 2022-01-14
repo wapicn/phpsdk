@@ -2,7 +2,7 @@
     "name": "wapi/sdk",
     "description": "挖数据sdk包",
     "require-dev": {
-        "wapi/sdk": "1.1"
+        "wapi/sdk": "1.2.0"
     },
     "authors": [
         {

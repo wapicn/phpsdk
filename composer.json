@@ -2,7 +2,7 @@
     "name": "wapi/sdk",
     "description": "挖数据sdk包",
     "require-dev": {
-        "wapi/sdk": "1.0.0"
+        "wapi/sdk": "1.1.0"
     },
     "authors": [
         {
@@ -10,5 +10,13 @@
             "email": "sa@safs.me"
         }
     ],
-    "require": {}
+    "require": {
+        "php":"^7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "wapi\\": "src"
+        }
+    },
+    "license": "MIT"
 }

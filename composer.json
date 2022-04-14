@@ -1,9 +1,6 @@
 {
     "name": "wapi/sdk",
     "description": "挖数据sdk包",
-    "require-dev": {
-       
-    },
     "authors": [
         {
             "name": "Safs",
@@ -12,7 +9,7 @@
     ],
     "require": {
         "php":"^7.3",
-        "wapi/sdk": "v1.1"  
+        "wapi/sdk": "1.3.0"  
     },
     "autoload": {
         "psr-4": {

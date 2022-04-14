@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3345c9b2-139b-42eb-9b73-d7c32147ccf2" name="Default Changelist" comment="" />
+    <list default="true" id="3345c9b2-139b-42eb-9b73-d7c32147ccf2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpsdk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phpsdk.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wapi.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wapi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/HttpClient.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/HttpClient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/Sdk.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/Sdk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -39,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642125341276</updated>
       <workItem from="1642125342762" duration="3855000" />
+      <workItem from="1649906698700" duration="2033000" />
     </task>
     <servers />
   </component>

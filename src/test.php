@@ -1,4 +1,4 @@
 <?php
-//use wapi\Wapi;
+use wapi\Wapi;
 $n = new Wapi();
 $n->wapi_244();
